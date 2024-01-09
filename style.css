@@ -44,7 +44,8 @@
     width: 802.9px;
     height: 806px;
     margin: auto;
-    margin-top: 120px;
+    margin-top: 108px;
+    margin-bottom: 120px;
 }
 .text1{
     color: #F00;
@@ -131,6 +132,7 @@
     padding-bottom: 90px; 
     border-top-left-radius:16px ;
     border-bottom-left-radius: 16px;
+    border-top-right-radius: 16px;
 }
 .content_3_div{
     text-align: center;
@@ -371,6 +373,8 @@
     padding-bottom: 90px; 
     border-top-left-radius:16px ;
     border-bottom-left-radius: 16px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius:16px ;
 }
 .content_7_div{
     text-align: center;
